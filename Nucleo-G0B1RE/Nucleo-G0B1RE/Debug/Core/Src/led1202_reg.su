@@ -1,0 +1,2 @@
+../Core/Src/led1202_reg.c:36:9:LED1202_ReadReg	48	static
+../Core/Src/led1202_reg.c:54:9:LED1202_WriteReg	48	static

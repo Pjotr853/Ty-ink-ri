@@ -1,0 +1,2 @@
+bridge.c:60:6:ClearBuffers	2
+bridge.c:76:6:WaitForCommand	23

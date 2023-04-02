@@ -1,0 +1,2 @@
+../Core/Src/bridge.c:60:6:ClearBuffers	16	static
+../Core/Src/bridge.c:76:6:WaitForCommand	40	static
